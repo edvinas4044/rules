@@ -1,0 +1,168 @@
+General Rules
+1.1 Cheating, Exploiting or Crashing the server, is not permitted.
+1.2(a) RDM (Random Death Match) is not allowed.
+1.2(b) RDM counts as killing someone who has not done anything to provoke it.
+1.3 NLR is not allowed and has a 4 minute timer. (If someone raids you and you die, you have to wait until the raid is over)
+1.4(a) Discrimination is not allowed or tolerated.
+1.4(b) Discrimination counts as racism, sexism, religious prejudice, hate speech or harassment.
+1.5 Scamming or abusing a glitch/loophole is not tolerated.
+1.6 Trolling will not be accepted.
+1.7 Do not impersonate anyone.
+1.8 Staff’s word is final.
+1.9 Spamming or microphone spamming is allowed to a certain extent. 
+1.10 RDA (Random Arrest) is not tolerated.
+1.11 Propkilling, prop surfing or any other kind of prop abuse is not allowed.
+1.13 Attempting to lag/crash the server, will result in a permanent ban.
+1.14 Gang wars are not allowed unless you have permission from manager or above.
+1.16 Weapons carried by specific jobs, should not be dropped to others or inventoried for yourself.
+1.17 Players are required to advert. These include: raid, mug, kidnap , carjack , steal , warning someone to go away, etc.
+1.18 FearRP is a rule to a certain extent. For example, you pull out a gun if you are: outnumbered, being kidnapped, being mugged, etc.
+1.19 Inappropriate pictures on sprays or signs aren’t allowed.
+1.20 No inappropriate or discriminating laws.
+1.21 No roleplay (RP) at spawn. Eg, textscreens, random props, kidnapping.
+1.22 Angle abuse will not be tolerated: viewing the other person from an angle where they can't see you.
+1.23 Don't ask staff members for upgrades. Eg, printer upgrades, etc.
+1.24 Only use explosives in raids and defend your base NOTHING ELSE!
+1.25 KOS and building signs must be clear. This includes the colours of the text and positioning.
+1.26 You must advert warn 3 times over a space of 5 seconds before you can kill anyone for following you ect.
+1.27(a) Multi adverts are not allowed.
+1.27(b) Allowed multi advert are as followed - "Raid & Raid Assist" & "Over & False".
+1.28 Do not go afk (+15 Minutes).
+1.29 Do not abuse climb sweps & any other sweps.
+ 
+Building
+2.1 When you’re building a base, place a ‘building’ sign outside.
+2.2 You cannot have any raidable items whilst using a building sign.
+2.3 You’re only allowed 3 fading doors per base. You can use keypads/buttons for fading windows, there is no limit for fading windows.
+2.4 Crouch bases are only allowed to slow down intruders.
+2.5 Your base must have an entrance.
+2.6 Any entities should be accessible to interact with, but not necessarily steal.
+2.7(a) Fake keypads/buttons aren’t allowed.
+2.7(b) Keypads should be near the door they’re opening.
+2.8 You can’t have KOS lines on sidewalks or public places.
+2.9 Your base must be raidable by everyone.
+2.10(a) Don’t build on places you don’t own.
+2.10(b) Only base inside buildings you own all the doors to
+2.11 One way shooting is not allowed - they must be able to see you too.
+2.12 You’re not allowed to RP when you’re building. (IE kidnapping, mugging etc)
+2.13 Don’t propclimb. (Unless having a building sign up, See 2.2)
+2.14 Fading doors must open for a minimum of 5 seconds.
+2.15 If a player has a building sign up do not enter the base/area unless told to do so by the person building.
+2.16 Tunnel bases must leave enough room for people and cars to get through. They should leave a gap like this: https://gyazo.com/09cc13dc92c91549c0c949024302ad48
+2.17(a) Sky bases are allowed but the majority of the base has to be on a building rooftop and the entrance has to be on the world building too.
+2.17(b) The base can't connect to more than 1 rooftop.
+2.18 Base entrances must be a solid colour: cannot be transparent.
+2.19 World glow and one way materials/props are only allowed for viewing and not shooting through. If you would like to shoot through, it must be a fading window.
+2.20 Maze, black and mirror bases are not allowed.
+2.21 You are not allowed to have printers while building.
+2.22 All fading doors must have a keypad/button.
+2.23 Do not use materials that cause props to "flash"
+
+Raiding
+3.1 You’re not allowed to raid a house that’s being built.
+3.2 Don’t raid the same house twice within 30 minutes.
+3.3 Killing innocent bystanders while raiding, is not permitted.
+3.4 You may not take over someone's base, and must leave as soon as it's done. You can only be in a base for a maximum time of 10 minutes.
+3.5 When raiding, you must start outside the base/building.
+3.6 Nerve Gas must only be used in raids.
+3.7 Helium vapes are allowed for raids. Remember rule 3.5.
+3.8 Do not use C4s to raid. If you kill bystanders. It counts as RDM/MRDM.
+3.9 M202 can only fire 4 rockets per raid. For megabases, you can fire 8.
+3.10 Raiding must be adverted. Remember rule 3.5.
+3.11 If someone counters you, they cannot take over the raid.
+
+Basing
+4.1(a) Bank Manager or Bank Security are the only ones who can base in the bank.
+4.1(b) Bank Managers can legally store printers in the bank.
+4.2 Bloodz and Cripz cannot base together.
+4.3 If you make a megabase, you got to have at least 6+ people, and a maximum of 2 fading doors.
+4.4 You cannot base/build in spawn and fountain area.
+4.5(a) Fading door abuse is not allowed. Use your keypads, not keybinds, unless you have a building sign.
+4.6(b) You cannot spam keys or fading door button, to prevent a raider getting inside. This is called FDA.
+4.7 You cannot have a building and a KOS sign.
+4.8 You cannot have ‘KOS all reasons’.
+
+Mugging
+5.1 Maximum mugging amount is $10,000.
+5.2 You must give the victim at least 10 seconds to drop the money.
+5.3 If the victim runs, or doesn’t drop the money, you’re allowed to kill them.
+5.4(a)There’s a cooldown of 5 minutes between each mug.
+5.5(b)You may not mug the same person for 30 minutes.
+5.6 Muggings must be averted.
+5.7 The victim is allowed to fight back if they have a gun out already.
+
+Kidnapping
+6.1(a) There’s a 15 minute cooldown between each kidnapping.
+6.1(b) You cannot kidnap the same person for another 45 minutes.
+6.2 You’re only allowed to hold the kidnapped person for 30 minutes.
+6.3 There’s no limit to ransom money. You can demand as much as you’d like.
+6.4 You’re only allowed to hold 1 person captive at the same time.
+6.5 Do not abuse kidnapping jobs.
+
+Terroring
+7.1(a) You can advert 'Terror' once every 20 mins if your job allows it. Jobs that can terror are Slasher, Warrior, Terror.
+7.1(b) Terror only lasts 20 seconds.
+
+Vehicles
+8.1 You must advert “carjack” when stealing a vehicle.
+8.2 You must not physgun any vehicles and must call an admin if your car is stuck.
+8.3 Car minging is not tolerated.
+8.4 Don’t material or colour your car with the toolgun.
+8.5 JetSkis must only be used in water.
+
+Job Specific Rules.
+
+Law Enforcement
+9.1 Don’t use lethal force unless necessary.
+9.2 You’re only allowed to raid a base if you suspect illegal activity.
+9.3(a) Only SWAT is allowed to raid. Police may join them.
+9.3(b) Unless there is no SWAT.
+9.4(a) Do not arrest other Law Enforcement.
+9.4(b) Unless corruption is allowed by the Mayor, then the corrupt may be arrested/demoted/KOS'd.
+9.5 Cops/SWAT can't make up their own laws only the Mayor can.
+9.6 You can only battering ram on doors.
+9.7 As the president, you are not allowed to put KOS with laws. Eg. KOS if guns out in public.
+9.8 As a president you can only have pistols
+9.9 Battering ram abuse is not tolerated. This means you can only battering ram on fading doors, not on the base props.
+9.10(a) Law enforcement cannot base. The president can in PD, but without any raidable items.
+9.10(b) If the mayor says you can be corrupt rule 9.10(a) does not apply.
+9.10(c) Police can store illegal goods in the PD vault.
+9.11 The mayor shouldn’t initiate a lockdown for no reason.
+9.12 You cannot combat arrest. This means if someone is shooting at you, you can’t arrest them.
+9.13 Police do not have to warn unless laws state they have to.
+9.14 Civil protection can arrest people past the second PD and bank doors.
+
+Hitman
+10.1 You’re not allowed to ask someone if they can put a hit on a specific player.
+10.2 You’re not allowed to work/base with anyone and cannot raid. However, can break in to achieve a hit.
+10.3 If someone asks, you’re obliged to inform who placed a hit.
+10.4 You may charge more than the default $200 by changing the hit price: /hitprice (amount).
+
+Guards
+11.1 You’re not allowed to assist in raids, only defend.
+11.2 You’re not allowed to steal from printers/bitminers.
+11.3(a) You're not able to allow a criminal into the base.
+11.3(b) Unless bribed; threatened (1 guard vs 3 raiders with weapons); corrupted (requires name change).
+
+Gun/Knife/Explosive/Black Market Dealer
+12.1(a) You must be building, or having a gun store open.
+12.1(b) Black Market Dealers don't have to base)
+12.2(a) Self-supplying is not allowed.
+12.2(b) Self-supply constitutes spawning yourself multiple shipments and changing job/refusing to sell to others.
+12.3 You may set your own prices for the shipments.
+
+Citizen
+14.1 As a citizen you can only have pistols or shotguns.
+14.2 As a citizen you cannot have a base with raidable entities.
+
+Hobos
+15.1 As a hobo you can only have pistols or knives.
+15.2(a) As a Hobo you cannot have a base with raidable entities.
+15.2(b) As a Hobo you can't build on the road only on the sidewalk.
+
+Plague Doctor
+16.1 Plague doctor should advert "cleaning streets" lasts for 15 seconds. The cool down between each adverts is 15 minutes.
+16.2 The only job you can kill is hobos.
+
+Medics
+17.1 Medics are not allowed to raid on their own but can raid if hired by a group.
